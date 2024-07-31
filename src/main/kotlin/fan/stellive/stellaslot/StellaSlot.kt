@@ -1,0 +1,2 @@
+package fan.stellive.stellaslot
+
